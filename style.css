@@ -1,0 +1,56 @@
+h1 {
+    color: aliceblue;
+
+}
+html {
+
+    background-image: url(imagem/espaço.jpg);
+    background-size: cover;
+}
+h1 {
+    font-size: xx-large; 
+    text-align: center;
+}
+main {
+    padding: 20px;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+li img {
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+tr {
+    color: aliceblue;
+    text-align: center;
+}
+
+table {
+    float: right;
+    margin: 30px;
+    padding: 10px;
+}
+a img {
+    width: 200px;
+    height: 200px; 
+}
+footer p{
+    color: aliceblue;
+}
